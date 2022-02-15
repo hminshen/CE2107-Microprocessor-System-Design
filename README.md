@@ -8,7 +8,7 @@ Lab 2: Introduction about GPIO and Interrupts in Cortex M4F.
 
 Lab 3: Introduction about Timer Compare interrupt.
 
-Lab 4: Introduction about Timer Capture interrup and ADC.
+Lab 4: Introduction about Timer Capture interrupt and ADC.
 
 Lab 5: Assessment with Self-test program of the robot.
 
